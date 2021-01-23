@@ -156,6 +156,13 @@ footer
         font-size: 10px;
         
     }
+    .status{
+        gap: 8px;
+    }
+    .rectangle{
+        height: 40px;
+        width: 55px;
+    } 
 
     .status .rectangle p{
         font-size: 12px;
